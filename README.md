@@ -1,5 +1,8 @@
 ## Math 134A preference solution
 
+Donation link
+paypal.me/xinyc39
+
 这份代码集合代表了我在Math 134A课程中的全部学习成果。首先，我想将其作为对这段学习经历的纪念。其次，我想借此机会感谢加州大学欧文分校（UCI）提供给我这次宝贵的交换学习机会，让我深刻体验到美国本科教育的独特魅力。
 
 在美国的教育环境中，我发现老师和助教更愿意投入时间和精力帮助学生在学术上成长，这可能正是高等教育的真正意义所在。尽管这门课程表面上是关于投资学，实际上它更多地涉及Python编程。通过提前准备好的代码，我能够在考试时通过调整部分数字来解决问题。
@@ -21,3 +24,6 @@ Instead of encouraging a deep understanding of investment concepts, this practic
 You've taken a stand against this by deciding to release the material for free. This decision is based on the hope that it will encourage future students to focus on the real value of their education: learning and understanding, not just scoring well. By doing so, you're advocating for a more authentic and meaningful educational experience where knowledge and comprehension are valued over mere exam scores.
 
 Thanks for everyone.
+
+Donation link
+paypal.me/xinyc39
