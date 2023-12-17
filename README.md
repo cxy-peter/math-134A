@@ -8,6 +8,12 @@
 
 今天是2023年12月15日，距离我回国的日子仅剩两天。我不确定未来是否会再次来到UCI继续我的研究生学习，但我将永远感激UCI提供给我的这次交流机会。
 
+there are still unresolved issues that require attention. These include complex problems such as the Silicon Valley Bank (SVB) repayment dilemma and inquiries regarding salaries in Japanese baseball. While I am willing to upload and share my files to contribute to a broader understanding of these subjects, it's important to acknowledge the limitations of current technology.
+
+As of now, we are operating with GPT-4.0, which, despite its advanced capabilities, may not be equipped to fully address every intricate question or scenario. However, the anticipated release of GPT-5.0 in the future promises even greater computational power and knowledge breadth. It's conceivable that GPT-5.0 could handle a wider array of complex questions more effectively.
+
+That said, it's important to consider the potential implications of such advancements. If GPT-5.0 can indeed provide comprehensive and accurate answers to all these questions, the value of manually solving these problems could diminish. This shift could mark a significant transformation in how we approach learning and problem-solving, potentially relegating current methods to a mere historical footnote. However, until such a time, the pursuit of knowledge and the development of problem-solving skills remain crucial, underscoring the importance of your decision to share your materials and encourage genuine learning.
+
 As the semester ends, you found out that someone was offering to sell answers to practice exams for a price between $100 and $150. This, in your view, is detrimental to the actual purpose of education, especially in a subject as critical as investment studies.
 
 Instead of encouraging a deep understanding of investment concepts, this practice of selling answers tempts students to simply buy their way to good grades. This approach undermines the fundamental goal of education, which is not just to pass exams, but to deeply understand and engage with the subject matter. It's about the journey of learning, questioning, and discovering, not just the destination of a high score.
